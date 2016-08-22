@@ -2,5 +2,5 @@ package main
 import "fmt"
  
 func main(){
-    fmt.Printf("hello, world\n")
+    fmt.Printf("Hola Mundo Go\n")
 }
